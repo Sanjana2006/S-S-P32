@@ -77,4 +77,5 @@ async function getBackgroundImg(){
     
     //load the image in backgroundImg variable here
     backgroundImg = loadImage(bg);
+    console.log(backgroundImg);
 }
